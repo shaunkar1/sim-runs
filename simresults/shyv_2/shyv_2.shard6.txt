@@ -1,0 +1,25 @@
+aggro      firstWeapon 24s (72%) laser 37s (60%) cubes@60 2.6 (alive 71%)
+aggro      n=100  score 4.72  kills 0.67  life 98s  cubes 4.3  dealt 2996 taken 2873 zone 6  ms avg 0.16 max 6.3  acc 0.37  places [2 2 1 5 3 1 6 4 5 5 6 11 8 19 11 11]
+aggro      laser 415/690 (0.60)  min2 1.67 min4 2.77
+atgun      firstWeapon 20s (73%) laser 32s (57%) cubes@60 2.7 (alive 65%)
+atgun      n=100  score 4.58  kills 0.63  life 91s  cubes 4.4  dealt 2776 taken 2717 zone 24  ms avg 0.14 max 6.6  acc 0.41  places [1 2 1 2 4 5 4 4 6 6 7 11 9 8 16 14]
+atgun      laser 352/564 (0.62)  min2 1.56 min4 2.71
+base       firstWeapon 21s (92%) laser 42s (75%) cubes@60 3.3 (alive 83%)
+base       n=300  score 7.93  kills 1.00  life 168s  cubes 10.0  dealt 3106 taken 3082 zone 78  ms avg 0.17 max 12.2  acc 0.38  places [17 27 17 22 25 22 19 15 19 17 17 15 16 14 19 19]
+base       laser 1330/2127 (0.63)  min2 1.81 min4 3.41
+shy0       firstWeapon 29s (91%) laser 51s (82%) cubes@60 2.4 (alive 87%)
+shy0       n=300  score 7.99  kills 0.84  life 168s  cubes 8.0  dealt 2588 taken 2760 zone 69  ms avg 0.18 max 14.6  acc 0.39  places [25 16 20 20 14 20 23 22 21 23 25 14 15 20 9 13]
+shy0       laser 1134/1817 (0.62)  min2 1.88 min4 3.55
+shy0o1     firstWeapon 19s (91%) laser 36s (79%) cubes@60 3.1 (alive 83%)
+shy0o1     n=200  score 7.59  kills 1.01  life 162s  cubes 9.5  dealt 2845 taken 2870 zone 79  ms avg 0.17 max 18.1  acc 0.37  places [15 13 11 16 8 11 12 14 14 14 7 13 16 12 17 7]
+shy0o1     laser 855/1405 (0.61)  min2 1.84 min4 3.40
+shy0o13    firstWeapon 22s (90%) laser 35s (75%) cubes@60 3.4 (alive 85%)
+shy0o13    n=300  score 7.61  kills 0.90  life 162s  cubes 9.2  dealt 2935 taken 2986 zone 56  ms avg 0.18 max 12.1  acc 0.36  places [19 13 26 13 23 17 17 23 19 23 18 24 21 14 14 16]
+shy0o13    laser 1291/2074 (0.62)  min2 1.85 min4 3.48
+shy0o14    firstWeapon 32s (92%) laser 44s (77%) cubes@60 2.8 (alive 86%)
+shy0o14    n=200  score 8.38  kills 0.98  life 177s  cubes 9.6  dealt 2925 taken 2991 zone 110  ms avg 0.17 max 10.5  acc 0.37  places [13 16 18 14 18 16 15 9 12 8 17 5 11 6 8 14]
+shy0o14    laser 841/1376 (0.61)  min2 1.82 min4 3.48
+shy0o5     firstWeapon 22s (93%) laser 40s (78%) cubes@60 3.2 (alive 86%)
+shy0o5     n=100  score 8.27  kills 0.99  life 176s  cubes 9.0  dealt 2915 taken 2820 zone 120  ms avg 0.19 max 18.8  acc 0.34  places [9 10 6 8 5 8 5 9 3 5 4 6 3 9 4 6]
+shy0o5     laser 441/719 (0.61)  min2 1.84 min4 3.43
+elapsed 2m6.859s

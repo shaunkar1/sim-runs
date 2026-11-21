@@ -1,0 +1,13 @@
+tk0        firstWeapon 15s (91%) laser 25s (74%) cubes@60 4.0 (alive 69%)
+tk0        n=100  score 3.13  kills 2.68  life 97s  cubes 5.5  dealt 5664 taken 2572 zone 11  ms avg 0.23 max 9.1  acc 0.60  places [0 0 0 1 0 1 2 2 3 9 9 9 15 16 24 9]
+tk0        laser 674/807 (0.84)  min2 1.58 min4 2.45
+tko        firstWeapon 22s (88%) laser 32s (68%) cubes@60 3.2 (alive 83%)
+tko        n=100  score 3.35  kills 2.85  life 113s  cubes 4.7  dealt 6132 taken 2542 zone 48  ms avg 0.23 max 16.8  acc 0.66  places [0 0 0 0 0 1 1 5 6 6 7 18 14 16 17 9]
+tko        laser 663/841 (0.79)  min2 1.65 min4 2.67
+tko13      firstWeapon 16s (92%) laser 28s (81%) cubes@60 3.7 (alive 79%)
+tko13      n=100  score 3.16  kills 2.85  life 99s  cubes 5.0  dealt 5901 taken 2530 zone 31  ms avg 0.22 max 15.7  acc 0.64  places [0 0 0 0 1 0 0 3 2 11 10 14 12 19 21 7]
+tko13      laser 698/871 (0.80)  min2 1.65 min4 2.59
+tko8       firstWeapon 11s (84%) laser 17s (74%) cubes@60 3.1 (alive 72%)
+tko8       n=100  score 2.88  kills 2.44  life 89s  cubes 4.1  dealt 5234 taken 2237 zone 14  ms avg 0.23 max 15.5  acc 0.65  places [0 0 0 0 0 1 0 2 5 5 8 15 13 22 14 15]
+tko8       laser 662/763 (0.87)  min2 1.56 min4 2.41
+elapsed 2m36.205s
