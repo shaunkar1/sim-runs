@@ -1,0 +1,22 @@
+aggro      firstWeapon 31s (79%) laser 41s (59%) cubes@60 2.5 (alive 75%)
+aggro      n=200  score 5.61  kills 0.88  life 145s  cubes 4.5  dealt 3781 taken 3191 zone 44  ms avg 0.19 max 16.6  acc 0.36  places [2 5 10 10 6 6 10 10 15 14 17 21 19 22 17 16]
+aggro      laser 1096/1726 (0.63)  min2 1.75 min4 3.11
+atgun      firstWeapon 29s (79%) laser 39s (62%) cubes@60 2.4 (alive 68%)
+atgun      n=200  score 5.16  kills 1.02  life 132s  cubes 5.4  dealt 3816 taken 3234 zone 21  ms avg 0.17 max 15.9  acc 0.39  places [5 9 3 2 3 7 9 15 15 16 10 18 25 23 20 20]
+atgun      laser 1061/1698 (0.62)  min2 1.70 min4 2.94
+base       firstWeapon 23s (88%) laser 41s (71%) cubes@60 2.9 (alive 82%)
+base       n=300  score 8.19  kills 1.11  life 208s  cubes 8.4  dealt 3041 taken 2840 zone 165  ms avg 0.23 max 19.1  acc 0.36  places [25 25 26 19 20 23 15 14 14 18 17 22 14 16 15 17]
+base       laser 1324/2111 (0.63)  min2 1.84 min4 3.47
+q45        firstWeapon 27s (90%) laser 49s (74%) cubes@60 2.7 (alive 86%)
+q45        n=200  score 8.22  kills 1.08  life 212s  cubes 7.5  dealt 2989 taken 2950 zone 67  ms avg 0.22 max 17.8  acc 0.39  places [19 15 12 9 19 11 17 15 9 12 12 11 10 7 11 11]
+q45        laser 878/1370 (0.64)  min2 1.83 min4 3.50
+surv       firstWeapon 19s (88%) laser 36s (70%) cubes@60 2.9 (alive 82%)
+surv       n=200  score 7.71  kills 0.60  life 202s  cubes 6.5  dealt 2149 taken 2768 zone 76  ms avg 0.22 max 18.2  acc 0.33  places [12 10 14 11 18 16 16 8 14 16 13 4 11 10 15 12]
+surv       laser 637/1056 (0.60)  min2 1.80 min4 3.38
+survivor   firstWeapon 26s (90%) laser 46s (76%) cubes@60 2.9 (alive 89%)
+survivor   n=300  score 8.60  kills 0.78  life 222s  cubes 7.5  dealt 2233 taken 2697 zone 132  ms avg 0.22 max 15.3  acc 0.33  places [22 21 20 30 18 25 23 26 22 19 16 13 12 11 14 8]
+survivor   laser 973/1651 (0.59)  min2 1.90 min4 3.64
+survq      firstWeapon 24s (88%) laser 35s (75%) cubes@60 2.8 (alive 85%)
+survq      n=200  score 8.17  kills 0.79  life 210s  cubes 8.1  dealt 2214 taken 2695 zone 99  ms avg 0.23 max 16.5  acc 0.33  places [16 14 15 20 15 12 10 13 10 7 16 9 10 9 8 16]
+survq      laser 633/1068 (0.59)  min2 1.80 min4 3.42
+elapsed 3m8.837s

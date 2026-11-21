@@ -1,0 +1,13 @@
+base       firstWeapon 21s (91%) laser 43s (77%) cubes@60 3.1 (alive 90%)
+base       n=400  score 7.34  kills 1.03  life 234s  cubes 7.5  dealt 3115 taken 2698 zone 151  ms avg 0.25 max 22.7  acc 0.39  places [23 25 24 19 27 21 25 29 27 21 34 24 24 32 20 25]
+base       laser 1751/2776 (0.63)  min2 1.82 min4 3.38
+surv       firstWeapon 22s (91%) laser 45s (75%) cubes@60 2.7 (alive 90%)
+surv       n=400  score 7.86  kills 0.85  life 241s  cubes 6.3  dealt 2353 taken 2524 zone 132  ms avg 0.26 max 22.1  acc 0.39  places [29 17 29 24 27 34 35 22 29 23 22 26 23 18 18 24]
+surv       laser 1289/2065 (0.62)  min2 1.83 min4 3.48
+survivor   firstWeapon 22s (90%) laser 45s (74%) cubes@60 2.7 (alive 87%)
+survivor   n=400  score 7.28  kills 0.84  life 231s  cubes 6.3  dealt 2373 taken 2552 zone 138  ms avg 0.26 max 21.6  acc 0.40  places [17 26 27 30 23 19 22 30 26 23 27 24 24 23 31 28]
+survivor   laser 1305/2064 (0.63)  min2 1.78 min4 3.31
+survq      firstWeapon 25s (91%) laser 44s (74%) cubes@60 2.7 (alive 89%)
+survq      n=400  score 7.54  kills 0.88  life 237s  cubes 6.8  dealt 2365 taken 2538 zone 140  ms avg 0.25 max 23.0  acc 0.40  places [31 32 21 26 25 24 18 20 17 34 17 27 28 26 31 23]
+survq      laser 1297/1979 (0.66)  min2 1.81 min4 3.34
+elapsed 4m32.881s
