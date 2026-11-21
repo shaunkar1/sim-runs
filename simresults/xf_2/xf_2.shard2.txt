@@ -1,0 +1,22 @@
+aggro      firstWeapon 26s (81%) laser 33s (66%) cubes@60 3.5 (alive 83%)
+aggro      n=100  score 6.62  kills 1.25  life 219s  cubes 7.1  dealt 3824 taken 3059 zone 179  ms avg 0.23 max 21.9  acc 0.39  places [7 8 4 7 4 6 5 3 2 5 7 4 6 7 9 16]
+aggro      laser 552/844 (0.65)  min2 1.59 min4 2.89
+atgun      firstWeapon 33s (81%) laser 33s (67%) cubes@60 3.2 (alive 78%)
+atgun      n=100  score 6.49  kills 1.07  life 213s  cubes 6.5  dealt 3652 taken 3001 zone 40  ms avg 0.20 max 15.2  acc 0.38  places [5 5 6 3 7 5 12 4 3 6 3 5 6 5 3 22]
+atgun      laser 530/857 (0.62)  min2 1.53 min4 2.87
+ffa0       firstWeapon 31s (93%) laser 53s (77%) cubes@60 2.5 (alive 96%)
+ffa0       n=400  score 8.00  kills 0.91  life 264s  cubes 6.7  dealt 2386 taken 2476 zone 173  ms avg 0.24 max 18.5  acc 0.39  places [30 29 25 27 26 23 20 32 33 27 19 25 27 24 25 8]
+ffa0       laser 1331/2227 (0.60)  min2 1.90 min4 3.54
+qc360      firstWeapon 27s (91%) laser 57s (77%) cubes@60 2.4 (alive 94%)
+qc360      n=200  score 7.74  kills 0.79  life 256s  cubes 6.6  dealt 2297 taken 2471 zone 158  ms avg 0.24 max 24.3  acc 0.38  places [11 11 14 12 21 19 8 12 6 16 10 13 9 15 16 7]
+qc360      laser 635/1088 (0.58)  min2 1.85 min4 3.42
+xf16       firstWeapon 28s (89%) laser 46s (74%) cubes@60 2.5 (alive 90%)
+xf16       n=300  score 7.23  kills 0.87  life 247s  cubes 6.0  dealt 2229 taken 2423 zone 136  ms avg 0.25 max 21.3  acc 0.39  places [21 14 21 15 15 14 30 15 20 10 22 20 17 26 18 22]
+xf16       laser 937/1555 (0.60)  min2 1.79 min4 3.30
+xf7        firstWeapon 29s (91%) laser 50s (77%) cubes@60 2.6 (alive 92%)
+xf7        n=300  score 7.55  kills 0.87  life 255s  cubes 6.3  dealt 2345 taken 2470 zone 155  ms avg 0.24 max 25.2  acc 0.39  places [13 18 18 26 16 21 10 21 27 23 25 17 23 11 16 15]
+xf7        laser 973/1706 (0.57)  min2 1.85 min4 3.49
+xf7d150    firstWeapon 26s (92%) laser 54s (80%) cubes@60 2.6 (alive 95%)
+xf7d150    n=200  score 7.59  kills 0.79  life 258s  cubes 6.1  dealt 2255 taken 2419 zone 216  ms avg 0.25 max 22.0  acc 0.39  places [14 14 12 11 11 12 14 13 10 14 12 16 14 11 12 10]
+xf7d150    laser 642/1058 (0.61)  min2 1.84 min4 3.44
+elapsed 4m29.953s
