@@ -1,0 +1,22 @@
+aggro      firstWeapon 25s (83%) laser 50s (69%) cubes@60 2.7 (alive 84%)
+aggro      n=200  score 7.32  kills 0.91  life 226s  cubes 6.7  dealt 2474 taken 2622 zone 136  ms avg 0.23 max 45.9  acc 0.37  places [13 12 11 9 17 16 13 11 11 7 14 8 12 13 14 19]
+aggro      laser 640/1114 (0.57)  min2 1.74 min4 3.22
+atgun      firstWeapon 25s (83%) laser 48s (69%) cubes@60 2.9 (alive 79%)
+atgun      n=200  score 6.68  kills 0.84  life 210s  cubes 5.7  dealt 2594 taken 2673 zone 82  ms avg 0.19 max 21.8  acc 0.39  places [11 15 10 12 10 13 6 7 11 14 11 9 11 15 23 22]
+atgun      laser 651/1117 (0.58)  min2 1.67 min4 3.01
+ffa0       firstWeapon 27s (90%) laser 51s (75%) cubes@60 2.5 (alive 92%)
+ffa0       n=300  score 7.67  kills 0.76  life 243s  cubes 6.3  dealt 2082 taken 2424 zone 171  ms avg 0.24 max 22.1  acc 0.37  places [16 18 25 21 18 17 22 16 18 16 19 24 26 16 16 12]
+ffa0       laser 847/1428 (0.59)  min2 1.87 min4 3.49
+ffa0c      firstWeapon 27s (89%) laser 47s (80%) cubes@60 2.5 (alive 93%)
+ffa0c      n=200  score 7.93  kills 0.99  life 248s  cubes 7.4  dealt 2734 taken 2406 zone 224  ms avg 0.23 max 23.0  acc 0.37  places [18 10 3 15 22 13 10 16 13 18 15 10 8 9 11 9]
+ffa0c      laser 790/1319 (0.60)  min2 1.85 min4 3.52
+ffa0e      firstWeapon 28s (92%) laser 47s (79%) cubes@60 2.1 (alive 92%)
+ffa0e      n=200  score 7.67  kills 0.85  life 240s  cubes 7.2  dealt 2203 taken 2465 zone 137  ms avg 0.24 max 18.2  acc 0.37  places [12 17 13 13 6 10 13 17 15 13 14 10 14 12 12 9]
+ffa0e      laser 664/1124 (0.59)  min2 1.85 min4 3.45
+ffa0e6     firstWeapon 30s (92%) laser 49s (78%) cubes@60 2.8 (alive 90%)
+ffa0e6     n=200  score 7.96  kills 0.90  life 244s  cubes 6.6  dealt 2717 taken 2576 zone 142  ms avg 0.24 max 17.6  acc 0.37  places [13 13 18 15 11 14 10 12 15 13 13 11 8 16 7 11]
+ffa0e6     laser 801/1311 (0.61)  min2 1.85 min4 3.48
+ffa0old    firstWeapon 30s (87%) laser 54s (69%) cubes@60 2.6 (alive 89%)
+ffa0old    n=300  score 7.33  kills 0.99  life 229s  cubes 7.0  dealt 2638 taken 2487 zone 157  ms avg 0.23 max 20.0  acc 0.38  places [18 16 19 16 15 17 25 22 16 20 13 28 23 18 16 18]
+ffa0old    laser 1108/1832 (0.60)  min2 1.83 min4 3.40
+elapsed 4m1.451s
