@@ -1,0 +1,5 @@
+commit=40d05179ca1b70f52b46b794afeefc01ed1f8b3f
+n=100
+seed=9715838
+mode=ffa
+cand=base,base,base,noaim,noaim,noaim60,noaim60,noaim60,noaim90,noaim90,noaim90,quiet60,quiet60,quiet60,aggro,atgun
