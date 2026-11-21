@@ -1,0 +1,22 @@
+aggro      firstWeapon 26s (83%) laser 34s (65%) cubes@60 3.1 (alive 81%)
+aggro      n=100  score 5.17  kills 0.93  life 125s  cubes 6.6  dealt 3862 taken 3325 zone 0  ms avg 0.19 max 9.0  acc 0.32  places [0 3 4 4 4 2 3 6 7 8 3 15 10 11 12 8]
+aggro      laser 524/896 (0.58)  min2 1.72 min4 3.00
+atgun      firstWeapon 21s (68%) laser 29s (46%) cubes@60 3.1 (alive 69%)
+atgun      n=100  score 3.89  kills 0.66  life 98s  cubes 4.4  dealt 2888 taken 2883 zone 0  ms avg 0.17 max 11.9  acc 0.35  places [0 0 1 1 3 1 4 7 7 8 7 4 13 13 16 15]
+atgun      laser 345/605 (0.57)  min2 1.54 min4 2.53
+base       firstWeapon 18s (88%) laser 36s (74%) cubes@60 3.5 (alive 86%)
+base       n=200  score 7.12  kills 0.92  life 164s  cubes 9.5  dealt 2761 taken 2910 zone 55  ms avg 0.23 max 15.2  acc 0.31  places [12 10 15 10 6 12 13 13 14 14 16 9 10 22 9 15]
+base       laser 822/1381 (0.60)  min2 1.80 min4 3.29
+ffa0na120  firstWeapon 32s (90%) laser 50s (74%) cubes@60 2.4 (alive 89%)
+ffa0na120  n=300  score 8.69  kills 0.94  life 194s  cubes 9.2  dealt 2597 taken 2722 zone 76  ms avg 0.21 max 17.7  acc 0.36  places [27 30 17 22 27 26 18 27 16 11 16 10 11 8 14 20]
+ffa0na120  laser 1158/1912 (0.61)  min2 1.82 min4 3.50
+ffa0na60   firstWeapon 25s (88%) laser 46s (75%) cubes@60 2.2 (alive 90%)
+ffa0na60   n=300  score 7.44  kills 0.91  life 173s  cubes 8.4  dealt 2728 taken 2827 zone 68  ms avg 0.21 max 23.6  acc 0.37  places [16 24 17 17 18 19 15 13 19 24 19 29 21 19 16 14]
+ffa0na60   laser 1170/1975 (0.59)  min2 1.85 min4 3.46
+ffa0na90   firstWeapon 28s (90%) laser 50s (82%) cubes@60 2.5 (alive 91%)
+ffa0na90   n=300  score 8.51  kills 1.04  life 191s  cubes 9.7  dealt 2879 taken 2783 zone 61  ms avg 0.21 max 25.2  acc 0.35  places [31 20 24 19 21 17 30 16 19 18 18 12 15 15 14 11]
+ffa0na90   laser 1300/2150 (0.60)  min2 1.88 min4 3.56
+ffa0q90    firstWeapon 26s (88%) laser 48s (76%) cubes@60 2.7 (alive 89%)
+ffa0q90    n=300  score 7.63  kills 0.83  life 175s  cubes 9.1  dealt 2502 taken 2648 zone 94  ms avg 0.21 max 31.7  acc 0.35  places [15 13 23 25 21 23 19 17 18 16 21 21 20 12 19 17]
+ffa0q90    laser 1076/1851 (0.58)  min2 1.82 min4 3.44
+elapsed 2m46.742s
