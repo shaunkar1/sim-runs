@@ -34,9 +34,10 @@ jobs:
           if [ -z "$files" ]; then files=$(git diff --name-only HEAD~1 HEAD -- simjobs | grep '\.job$' || true); fi
           mkdir -p out
           if [ -n "${PROJ1_KEY:-}" ]; then
-            mkdir -p ~/.ssh && printf '%s\n' "$PROJ1_KEY" > ~/.ssh/proj1 && chmod 600 ~/.ssh/proj1
+            mkdir -p ~/.ssh && printf '%s\n' "$PROJ1_KEY" | tr -d '\r' > ~/.ssh/proj1 && chmod 600 ~/.ssh/proj1
             ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts 2>/dev/null
-            GIT_SSH_COMMAND="ssh -i ~/.ssh/proj1 -o IdentitiesOnly=yes" git clone -q git@github.com:shaunkar1/proj1.git /tmp/proj1
+            GIT_SSH_COMMAND="ssh -i ~/.ssh/proj1 -o IdentitiesOnly=yes" git clone -q git@github.com:shaunkar1/proj1.git /tmp/proj1 \
+              || { echo "key checkout failed, trying the public address"; rm -rf /tmp/proj1; git clone -q https://github.com/shaunkar1/proj1 /tmp/proj1; }
           else
             git clone -q https://github.com/shaunkar1/proj1 /tmp/proj1
           fi
