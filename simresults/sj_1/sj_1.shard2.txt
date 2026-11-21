@@ -1,0 +1,16 @@
+ffa0       firstWeapon 29s (89%) laser 49s (74%) cubes@60 2.5 (alive 94%)
+ffa0       n=400  score 7.51  kills 0.81  life 256s  cubes 6.3  dealt 2248 taken 2330 zone 192  ms avg 0.25 max 29.1  acc 0.40  places [32 19 27 25 28 25 21 16 22 23 30 27 39 19 28 19]
+ffa0       laser 1209/2011 (0.60)  min2 1.83 min4 3.41
+si30       firstWeapon 30s (94%) laser 54s (77%) cubes@60 2.6 (alive 94%)
+si30       n=300  score 7.68  kills 0.93  life 263s  cubes 6.8  dealt 2542 taken 2544 zone 215  ms avg 0.28 max 24.6  acc 0.40  places [19 18 18 22 20 18 18 16 26 21 19 19 16 19 14 17]
+si30       laser 1048/1761 (0.60)  min2 1.84 min4 3.45
+si30zl20   firstWeapon 26s (92%) laser 37s (78%) cubes@60 2.7 (alive 94%)
+si30zl20   n=300  score 7.23  kills 0.82  life 254s  cubes 5.5  dealt 2487 taken 2523 zone 110  ms avg 0.25 max 25.0  acc 0.41  places [11 16 20 15 24 17 23 27 19 17 10 18 15 28 25 15]
+si30zl20   laser 1044/1838 (0.57)  min2 1.82 min4 3.31
+si60       firstWeapon 26s (91%) laser 44s (76%) cubes@60 2.7 (alive 92%)
+si60       n=300  score 7.73  kills 1.01  life 258s  cubes 6.9  dealt 2621 taken 2527 zone 171  ms avg 0.27 max 18.7  acc 0.40  places [23 26 16 18 17 17 18 25 15 15 19 22 17 10 19 23]
+si60       laser 1098/1783 (0.62)  min2 1.78 min4 3.38
+zl20       firstWeapon 29s (89%) laser 43s (72%) cubes@60 2.5 (alive 93%)
+zl20       n=300  score 7.38  kills 0.86  life 253s  cubes 5.1  dealt 2372 taken 2481 zone 168  ms avg 0.26 max 19.1  acc 0.42  places [17 21 17 20 12 22 21 16 18 25 20 15 13 23 14 26]
+zl20       laser 974/1574 (0.62)  min2 1.78 min4 3.32
+elapsed 4m58.415s
