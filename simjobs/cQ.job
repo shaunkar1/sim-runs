@@ -1,0 +1,6 @@
+commit=05ed7db25fd2d06ccd901fe8c2605c5bf28722f5
+n=400
+seed=7900001
+mode=practice
+cand=P_t45,P_t35,P_t45_a300,P_t45_h35
+extra=-ramp 0.34 -aggro 0
