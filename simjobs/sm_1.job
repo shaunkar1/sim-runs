@@ -1,0 +1,5 @@
+commit=7c9a5b1eee87544fc8caad220abb9cf1bdd02b55
+n=100
+seed=9607919
+mode=ffa
+cand=ffa0,ffa0,ffa0,ffa0,sm16,sm16,sm16,sm16,sm24,sm24,sm24,sm24,q45,q45,aggro,atgun
