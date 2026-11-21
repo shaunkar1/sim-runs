@@ -1,0 +1,7 @@
+P_         firstWeapon 18s (95%) laser 32s (83%) cubes@60 3.2 (alive 94%)
+P_         n=200  score 5.81  kills 5.35  life 155s  cubes 8.9  dealt 11106 taken 3007 zone 77  ms avg 0.24 max 16.8  acc 0.69  places [0 0 0 7 7 14 17 16 18 27 25 23 16 9 9 12]
+P_         laser 2514/3002 (0.84)  min2 1.83 min4 3.46
+P_lk       firstWeapon 19s (96%) laser 32s (88%) cubes@60 3.7 (alive 97%)
+P_lk       n=200  score 6.09  kills 5.60  life 156s  cubes 9.8  dealt 11659 taken 2981 zone 64  ms avg 0.24 max 28.9  acc 0.68  places [2 1 2 5 7 7 16 24 25 26 28 14 17 11 6 9]
+P_lk       laser 2812/3296 (0.85)  min2 1.88 min4 3.54
+elapsed 3m35.77s

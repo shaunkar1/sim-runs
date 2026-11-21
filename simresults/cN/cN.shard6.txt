@@ -1,0 +1,13 @@
+P_lk       firstWeapon 16s (98%) laser 27s (90%) cubes@60 4.1 (alive 95%)
+P_lk       n=100  score 5.98  kills 5.41  life 165s  cubes 10.0  dealt 11487 taken 3076 zone 92  ms avg 0.13 max 6.5  acc 0.66  places [0 2 0 2 2 3 9 13 13 15 7 12 9 6 6 1]
+P_lk       laser 1382/1638 (0.84)  min2 1.92 min4 3.57
+P_lk_ll    firstWeapon 21s (94%) laser 35s (85%) cubes@60 3.1 (alive 95%)
+P_lk_ll    n=100  score 5.06  kills 4.57  life 153s  cubes 7.3  dealt 9900 taken 2781 zone 122  ms avg 0.15 max 12.2  acc 0.62  places [0 0 0 0 3 4 4 12 10 5 16 18 10 7 5 6]
+P_lk_ll    laser 1386/1622 (0.85)  min2 1.83 min4 3.37
+P_lk_p200  firstWeapon 17s (97%) laser 29s (88%) cubes@60 3.2 (alive 98%)
+P_lk_p200  n=100  score 5.97  kills 5.48  life 159s  cubes 9.9  dealt 11555 taken 2968 zone 37  ms avg 0.14 max 16.5  acc 0.64  places [0 0 2 2 5 3 15 9 9 8 8 14 6 13 4 2]
+P_lk_p200  laser 1397/1675 (0.83)  min2 1.92 min4 3.48
+P_lk_r50   firstWeapon 18s (90%) laser 28s (81%) cubes@60 3.6 (alive 97%)
+P_lk_r50   n=100  score 6.77  kills 6.12  life 166s  cubes 10.6  dealt 12690 taken 3169 zone 55  ms avg 0.15 max 8.3  acc 0.67  places [1 0 0 8 4 6 8 9 17 17 6 9 8 2 3 2]
+P_lk_r50   laser 1527/1806 (0.85)  min2 1.93 min4 3.71
+elapsed 2m22.914s
