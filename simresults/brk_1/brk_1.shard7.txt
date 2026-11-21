@@ -1,0 +1,22 @@
+aggro      firstWeapon 23s (66%) laser 33s (49%) cubes@60 2.6 (alive 64%)
+aggro      n=100  score 5.03  kills 0.64  life 104s  cubes 3.4  dealt 2972 taken 2877 zone 23  ms avg 0.15 max 11.4  acc 0.38  places [1 1 5 4 3 5 7 4 5 4 4 4 12 21 10 10]
+aggro      laser 386/692 (0.56)  min2 1.70 min4 2.76
+atgun      firstWeapon 20s (69%) laser 29s (46%) cubes@60 2.5 (alive 54%)
+atgun      n=100  score 3.66  kills 0.41  life 77s  cubes 2.8  dealt 2297 taken 2381 zone 0  ms avg 0.14 max 6.3  acc 0.38  places [0 0 2 4 3 1 0 4 4 5 7 11 11 13 21 14]
+atgun      laser 267/439 (0.61)  min2 1.51 min4 2.44
+base       firstWeapon 19s (88%) laser 34s (75%) cubes@60 3.3 (alive 86%)
+base       n=400  score 7.75  kills 1.02  life 164s  cubes 8.8  dealt 3063 taken 3035 zone 71  ms avg 0.17 max 12.9  acc 0.36  places [20 28 23 25 30 24 34 31 24 32 19 27 20 21 21 21]
+base       laser 1765/2897 (0.61)  min2 1.84 min4 3.48
+ffa0       firstWeapon 29s (88%) laser 52s (73%) cubes@60 2.3 (alive 88%)
+ffa0       n=200  score 8.29  kills 0.98  life 173s  cubes 9.5  dealt 2645 taken 2703 zone 77  ms avg 0.18 max 13.8  acc 0.37  places [20 11 15 15 17 11 7 9 17 15 18 8 15 7 7 8]
+ffa0       laser 743/1205 (0.62)  min2 1.89 min4 3.59
+ffa0na60   firstWeapon 31s (93%) laser 54s (77%) cubes@60 2.1 (alive 89%)
+ffa0na60   n=200  score 8.82  kills 0.92  life 188s  cubes 9.1  dealt 2891 taken 3038 zone 59  ms avg 0.18 max 14.4  acc 0.38  places [21 16 16 15 10 13 19 18 16 7 14 4 6 7 11 7]
+ffa0na60   laser 820/1346 (0.61)  min2 1.88 min4 3.60
+nobossfar  firstWeapon 21s (86%) laser 47s (73%) cubes@60 2.9 (alive 84%)
+nobossfar  n=300  score 7.73  kills 0.93  life 164s  cubes 8.9  dealt 2836 taken 2910 zone 63  ms avg 0.18 max 12.3  acc 0.36  places [19 19 23 19 20 25 12 17 17 22 20 20 15 17 16 19]
+nobossfar  laser 1211/1918 (0.63)  min2 1.82 min4 3.42
+nobreak    firstWeapon 21s (88%) laser 40s (74%) cubes@60 3.1 (alive 83%)
+nobreak    n=300  score 7.67  kills 0.94  life 164s  cubes 8.5  dealt 2842 taken 2896 zone 92  ms avg 0.17 max 13.7  acc 0.35  places [19 26 15 19 18 20 20 18 18 16 16 25 21 14 14 21]
+nobreak    laser 1233/1997 (0.62)  min2 1.81 min4 3.42
+elapsed 2m6.516s
