@@ -1,0 +1,13 @@
+P_         firstWeapon 15s (96%) laser 30s (87%) cubes@60 3.8 (alive 98%)
+P_         n=100  score 6.19  kills 5.78  life 158s  cubes 9.4  dealt 12171 taken 3064 zone 97  ms avg 0.25 max 16.2  acc 0.68  places [0 0 0 3 4 6 7 10 12 19 9 19 2 4 3 2]
+P_         laser 1506/1752 (0.86)  min2 1.93 min4 3.73
+P_a160     firstWeapon 25s (99%) laser 35s (87%) cubes@60 2.9 (alive 98%)
+P_a160     n=100  score 6.42  kills 5.87  life 163s  cubes 9.4  dealt 12490 taken 3071 zone 62  ms avg 0.23 max 16.7  acc 0.70  places [0 0 1 5 5 6 9 8 17 11 8 8 13 4 5 0]
+P_a160     laser 1498/1749 (0.86)  min2 1.95 min4 3.64
+P_a300     firstWeapon 16s (97%) laser 32s (85%) cubes@60 3.6 (alive 95%)
+P_a300     n=100  score 6.08  kills 5.53  life 154s  cubes 9.9  dealt 11368 taken 3018 zone 85  ms avg 0.24 max 16.7  acc 0.68  places [1 1 1 2 2 10 9 7 14 8 10 9 7 11 8 0]
+P_a300     laser 1337/1577 (0.85)  min2 1.92 min4 3.47
+P_h35      firstWeapon 25s (92%) laser 32s (80%) cubes@60 3.4 (alive 92%)
+P_h35      n=100  score 5.61  kills 5.14  life 151s  cubes 8.2  dealt 10931 taken 2990 zone 41  ms avg 0.24 max 15.4  acc 0.70  places [0 0 0 2 2 8 9 7 6 16 7 21 8 6 5 3]
+P_h35      laser 1292/1536 (0.84)  min2 1.89 min4 3.53
+elapsed 3m43.315s
