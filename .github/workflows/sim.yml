@@ -27,12 +27,19 @@ jobs:
         env:
           BEFORE: ${{ github.event.before }}
           SHARD: ${{ matrix.shard }}
+          PROJ1_KEY: ${{ secrets.PROJ1_KEY }}
         run: |
           set -u
           files=$(git diff --name-only "$BEFORE" "$GITHUB_SHA" -- simjobs 2>/dev/null | grep '\.job$' || true)
           if [ -z "$files" ]; then files=$(git diff --name-only HEAD~1 HEAD -- simjobs | grep '\.job$' || true); fi
           mkdir -p out
-          git clone -q https://github.com/shaunkar1/proj1 /tmp/proj1
+          if [ -n "${PROJ1_KEY:-}" ]; then
+            mkdir -p ~/.ssh && printf '%s\n' "$PROJ1_KEY" > ~/.ssh/proj1 && chmod 600 ~/.ssh/proj1
+            ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts 2>/dev/null
+            GIT_SSH_COMMAND="ssh -i ~/.ssh/proj1 -o IdentitiesOnly=yes" git clone -q git@github.com:shaunkar1/proj1.git /tmp/proj1
+          else
+            git clone -q https://github.com/shaunkar1/proj1 /tmp/proj1
+          fi
           for f in $files; do
             [ -f "$f" ] || continue
             name=$(basename "$f" .job)
