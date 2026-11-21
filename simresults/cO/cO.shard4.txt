@@ -1,0 +1,13 @@
+P_t30      firstWeapon 17s (89%) laser 31s (77%) cubes@60 4.4 (alive 95%)
+P_t30      n=100  score 6.54  kills 6.01  life 145s  cubes 10.8  dealt 12191 taken 2855 zone 16  ms avg 0.20 max 11.8  acc 0.68  places [1 0 2 4 4 8 12 7 9 12 12 12 8 4 2 3]
+P_t30      laser 1347/1581 (0.85)  min2 1.92 min4 3.66
+P_t40      firstWeapon 18s (95%) laser 29s (82%) cubes@60 4.7 (alive 95%)
+P_t40      n=100  score 6.43  kills 5.82  life 146s  cubes 10.7  dealt 11894 taken 2903 zone 57  ms avg 0.21 max 10.1  acc 0.69  places [0 0 3 1 6 8 8 10 14 13 8 8 11 4 5 1]
+P_t40      laser 1312/1550 (0.85)  min2 1.93 min4 3.62
+P_t45      firstWeapon 17s (95%) laser 26s (88%) cubes@60 3.8 (alive 96%)
+P_t45      n=100  score 6.25  kills 5.70  life 138s  cubes 9.8  dealt 11961 taken 2872 zone 28  ms avg 0.20 max 13.9  acc 0.69  places [0 0 0 1 4 6 16 11 7 14 13 11 9 3 2 3]
+P_t45      laser 1464/1703 (0.86)  min2 1.92 min4 3.67
+P_t50      firstWeapon 15s (94%) laser 27s (86%) cubes@60 3.6 (alive 94%)
+P_t50      n=100  score 6.42  kills 6.05  life 139s  cubes 11.2  dealt 12307 taken 2807 zone 24  ms avg 0.23 max 14.8  acc 0.68  places [0 0 3 5 5 6 7 9 13 14 8 12 5 4 7 2]
+P_t50      laser 1434/1665 (0.86)  min2 1.89 min4 3.58
+elapsed 3m14.092s
