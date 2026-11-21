@@ -1,0 +1,22 @@
+base       firstWeapon 22s (89%) laser 48s (75%) cubes@60 2.9 (alive 87%)
+base       n=300  score 7.27  kills 0.88  life 218s  cubes 7.2  dealt 2578 taken 2584 zone 95  ms avg 0.24 max 15.0  acc 0.37  places [21 21 16 16 11 26 10 18 20 17 25 19 20 16 23 21]
+base       laser 1132/1723 (0.66)  min2 1.78 min4 3.32
+passive    firstWeapon 23s (89%) laser 56s (75%) cubes@60 2.9 (alive 88%)
+passive    n=200  score 8.19  kills 1.06  life 233s  cubes 7.3  dealt 2728 taken 2663 zone 166  ms avg 0.25 max 17.1  acc 0.39  places [11 22 20 10 11 12 14 14 11 13 11 7 10 12 14 8]
+passive    laser 775/1265 (0.61)  min2 1.85 min4 3.46
+qa3        firstWeapon 23s (88%) laser 48s (74%) cubes@60 2.7 (alive 87%)
+qa3        n=300  score 7.40  kills 0.98  life 221s  cubes 7.1  dealt 2740 taken 2629 zone 140  ms avg 0.24 max 18.6  acc 0.38  places [18 18 20 11 17 21 19 17 23 22 20 22 24 18 13 17]
+qa3        laser 1208/1863 (0.65)  min2 1.84 min4 3.44
+qa4c300    firstWeapon 27s (87%) laser 47s (67%) cubes@60 2.8 (alive 83%)
+qa4c300    n=200  score 7.32  kills 0.77  life 216s  cubes 5.7  dealt 2396 taken 2464 zone 114  ms avg 0.23 max 17.4  acc 0.37  places [15 12 13 10 13 12 9 11 14 7 12 18 14 11 14 15]
+qa4c300    laser 671/1070 (0.63)  min2 1.78 min4 3.31
+qc300      firstWeapon 19s (89%) laser 37s (76%) cubes@60 3.2 (alive 84%)
+qc300      n=200  score 7.15  kills 0.89  life 214s  cubes 6.7  dealt 2480 taken 2506 zone 135  ms avg 0.24 max 16.1  acc 0.36  places [5 15 9 19 19 10 9 13 8 8 12 11 16 18 14 14]
+qc300      laser 720/1178 (0.61)  min2 1.79 min4 3.25
+survivor   firstWeapon 23s (86%) laser 42s (76%) cubes@60 2.8 (alive 86%)
+survivor   n=200  score 7.94  kills 0.88  life 231s  cubes 7.8  dealt 2167 taken 2518 zone 111  ms avg 0.25 max 21.0  acc 0.35  places [18 7 11 18 17 12 15 16 13 12 8 8 7 13 9 16]
+survivor   laser 622/998 (0.62)  min2 1.79 min4 3.38
+timid      firstWeapon 27s (90%) laser 48s (76%) cubes@60 2.9 (alive 88%)
+timid      n=200  score 7.43  kills 0.87  life 225s  cubes 6.3  dealt 2606 taken 2595 zone 114  ms avg 0.25 max 17.0  acc 0.38  places [12 5 12 15 12 9 23 12 10 20 13 14 9 12 14 8]
+timid      laser 762/1196 (0.64)  min2 1.85 min4 3.46
+elapsed 4m1.809s

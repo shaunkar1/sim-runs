@@ -1,0 +1,22 @@
+base       firstWeapon 27s (89%) laser 45s (73%) cubes@60 2.8 (alive 85%)
+base       n=300  score 7.37  kills 0.87  life 218s  cubes 6.4  dealt 2550 taken 2634 zone 104  ms avg 0.24 max 29.0  acc 0.37  places [16 14 22 18 21 13 20 21 24 23 18 10 26 15 21 18]
+base       laser 1119/1765 (0.63)  min2 1.81 min4 3.36
+passive    firstWeapon 22s (93%) laser 42s (76%) cubes@60 2.9 (alive 86%)
+passive    n=200  score 7.76  kills 1.05  life 224s  cubes 7.2  dealt 2841 taken 2714 zone 133  ms avg 0.25 max 16.5  acc 0.39  places [14 10 8 17 16 17 15 11 12 11 11 13 12 11 11 11]
+passive    laser 835/1294 (0.65)  min2 1.83 min4 3.44
+qa3        firstWeapon 22s (89%) laser 51s (73%) cubes@60 2.6 (alive 85%)
+qa3        n=300  score 7.62  kills 0.94  life 221s  cubes 6.7  dealt 2686 taken 2624 zone 101  ms avg 0.24 max 16.4  acc 0.38  places [25 21 14 15 23 24 12 25 8 20 19 18 17 19 22 18]
+qa3        laser 1129/1794 (0.63)  min2 1.81 min4 3.36
+qa4c300    firstWeapon 25s (88%) laser 42s (76%) cubes@60 3.3 (alive 82%)
+qa4c300    n=200  score 7.25  kills 0.99  life 215s  cubes 7.1  dealt 2753 taken 2730 zone 150  ms avg 0.26 max 23.9  acc 0.37  places [10 15 21 10 6 10 15 3 13 13 14 16 12 11 11 20]
+qa4c300    laser 801/1299 (0.62)  min2 1.75 min4 3.27
+qc300      firstWeapon 27s (91%) laser 59s (71%) cubes@60 2.9 (alive 85%)
+qc300      n=200  score 7.42  kills 0.83  life 218s  cubes 7.0  dealt 2499 taken 2599 zone 76  ms avg 0.23 max 17.8  acc 0.37  places [12 12 12 16 7 13 16 12 13 9 11 15 12 16 12 12]
+qc300      laser 674/1069 (0.63)  min2 1.82 min4 3.36
+survivor   firstWeapon 31s (89%) laser 48s (72%) cubes@60 2.8 (alive 88%)
+survivor   n=200  score 7.63  kills 0.67  life 226s  cubes 6.5  dealt 2043 taken 2398 zone 196  ms avg 0.24 max 21.4  acc 0.36  places [9 16 12 13 13 12 10 18 14 11 11 17 12 11 14 7]
+survivor   laser 573/980 (0.58)  min2 1.86 min4 3.48
+timid      firstWeapon 20s (92%) laser 42s (77%) cubes@60 2.7 (alive 87%)
+timid      n=200  score 7.50  kills 1.00  life 221s  cubes 7.3  dealt 2686 taken 2567 zone 109  ms avg 0.24 max 22.4  acc 0.37  places [14 13 10 13 13 11 11 11 15 14 16 11 8 18 8 14]
+timid      laser 801/1234 (0.65)  min2 1.82 min4 3.38
+elapsed 4m0.549s
