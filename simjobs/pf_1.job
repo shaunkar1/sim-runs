@@ -1,0 +1,5 @@
+commit=e0f8d88cf45f7a7fd6d190bd6a4e456289e55ccc
+n=100
+seed=8507919
+mode=ffa
+cand=base,base,base,qa3,qa3,qa3,qc300,qc300,qa4c300,qa4c300,passive,passive,survivor,survivor,timid,timid
