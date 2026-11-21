@@ -1,0 +1,13 @@
+P_t20      firstWeapon 16s (95%) laser 27s (87%) cubes@60 5.3 (alive 97%)
+P_t20      n=100  score 7.20  kills 6.65  life 136s  cubes 12.7  dealt 13335 taken 3071 zone 12  ms avg 0.17 max 11.2  acc 0.69  places [1 0 3 6 4 9 10 15 11 11 10 7 7 3 2 1]
+P_t20      laser 1524/1828 (0.83)  min2 1.96 min4 3.77
+P_t20_a160 firstWeapon 20s (93%) laser 30s (83%) cubes@60 5.2 (alive 100%)
+P_t20_a160 n=100  score 6.78  kills 6.40  life 135s  cubes 12.1  dealt 12653 taken 2907 zone 33  ms avg 0.15 max 7.8  acc 0.71  places [0 0 1 6 7 6 10 13 8 17 3 15 6 4 3 1]
+P_t20_a160 laser 1359/1605 (0.85)  min2 1.95 min4 3.73
+P_t20_r25  firstWeapon 18s (91%) laser 28s (74%) cubes@60 5.1 (alive 90%)
+P_t20_r25  n=100  score 6.00  kills 5.44  life 140s  cubes 10.1  dealt 11219 taken 2818 zone 41  ms avg 0.15 max 10.4  acc 0.71  places [0 1 1 2 4 6 8 14 8 12 10 9 9 8 4 4]
+P_t20_r25  laser 1150/1431 (0.80)  min2 1.88 min4 3.47
+Q_t20      firstWeapon 20s (93%) laser 35s (83%) cubes@60 5.0 (alive 96%)
+Q_t20      n=100  score 6.96  kills 6.41  life 144s  cubes 11.4  dealt 12642 taken 3012 zone 52  ms avg 0.16 max 6.8  acc 0.70  places [0 1 3 5 4 8 7 6 22 16 9 8 5 2 2 2]
+Q_t20      laser 1395/1630 (0.86)  min2 1.94 min4 3.77
+elapsed 2m28.424s
