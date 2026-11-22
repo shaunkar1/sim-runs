@@ -1,0 +1,19 @@
+prof:f75a220+g+s+d100+x3 firstWeapon 19s (94%) laser 29s (82%) cubes@60 3.8 (alive 94%)
+prof:f75a220+g+s+d100+x3 n=200  score 5.79  kills 5.38  life 154s  cubes 10.6  dealt 11350 taken 2980 zone 77  ms avg 0.23 max 17.2  acc 0.68  places [2 4 1 2 6 11 11 17 31 23 23 18 15 10 18 8]
+prof:f75a220+g+s+d100+x3 laser 2607/3139 (0.83)  min2 1.83 min4 3.40
+prof:f75a220+g+s+d100+x3+rb2 firstWeapon 18s (94%) laser 33s (84%) cubes@60 3.5 (alive 96%)
+prof:f75a220+g+s+d100+x3+rb2 n=200  score 6.08  kills 5.57  life 151s  cubes 9.9  dealt 11593 taken 2889 zone 80  ms avg 0.25 max 17.0  acc 0.68  places [1 2 5 6 4 10 10 22 27 21 26 26 15 10 12 3]
+prof:f75a220+g+s+d100+x3+rb2 laser 2737/3189 (0.86)  min2 1.91 min4 3.58
+prof:f75a220+g+s+d100+x3+rb2+eh55 firstWeapon 15s (95%) laser 28s (87%) cubes@60 3.6 (alive 96%)
+prof:f75a220+g+s+d100+x3+rb2+eh55 n=200  score 5.68  kills 5.25  life 153s  cubes 8.8  dealt 10935 taken 2944 zone 60  ms avg 0.23 max 16.0  acc 0.67  places [1 1 1 4 3 9 13 14 26 28 27 29 20 13 8 3]
+prof:f75a220+g+s+d100+x3+rb2+eh55 laser 2636/3117 (0.85)  min2 1.93 min4 3.59
+prof:f75a220+g+s+d100+x3+rb3 firstWeapon 16s (95%) laser 32s (84%) cubes@60 3.5 (alive 96%)
+prof:f75a220+g+s+d100+x3+rb3 n=200  score 5.88  kills 5.42  life 152s  cubes 10.0  dealt 11305 taken 2985 zone 42  ms avg 0.23 max 16.3  acc 0.68  places [0 4 2 2 4 7 14 26 25 26 26 20 19 7 11 7]
+prof:f75a220+g+s+d100+x3+rb3 laser 2620/3108 (0.84)  min2 1.88 min4 3.53
+prof:f75a220+g+s+d100+x3+rb3+sh75 firstWeapon 15s (97%) laser 30s (88%) cubes@60 3.9 (alive 93%)
+prof:f75a220+g+s+d100+x3+rb3+sh75 n=200  score 6.12  kills 5.58  life 149s  cubes 10.9  dealt 11260 taken 3006 zone 57  ms avg 0.25 max 18.8  acc 0.68  places [3 3 6 5 2 10 13 15 28 28 20 20 22 9 12 4]
+prof:f75a220+g+s+d100+x3+rb3+sh75 laser 2700/3175 (0.85)  min2 1.90 min4 3.54
+prof:f75a220+g+s+d100+x3+rb4 firstWeapon 16s (92%) laser 31s (85%) cubes@60 3.5 (alive 97%)
+prof:f75a220+g+s+d100+x3+rb4 n=200  score 5.92  kills 5.30  life 156s  cubes 10.4  dealt 11202 taken 3084 zone 91  ms avg 0.24 max 17.4  acc 0.68  places [3 0 4 3 1 13 16 20 27 23 24 16 20 11 12 7]
+prof:f75a220+g+s+d100+x3+rb4 laser 2629/3179 (0.83)  min2 1.87 min4 3.47
+elapsed 10m37.546s
