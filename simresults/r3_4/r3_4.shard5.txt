@@ -1,0 +1,22 @@
+aggro      firstWeapon 27s (89%) laser 38s (70%) cubes@60 2.9 (alive 85%)
+aggro      n=100  score 5.75  kills 1.33  life 212s  cubes 6.8  dealt 4251 taken 3241 zone 106  ms avg 0.18 max 12.6  acc 0.34  places [10 3 3 6 3 6 0 2 5 5 4 8 6 8 12 19]
+aggro      laser 635/1052 (0.60)  min2 1.50 min4 2.66
+ffa0       firstWeapon 24s (94%) laser 48s (81%) cubes@60 2.7 (alive 96%)
+ffa0       n=300  score 7.58  kills 0.88  life 263s  cubes 6.6  dealt 2352 taken 2398 zone 195  ms avg 0.19 max 15.6  acc 0.38  places [19 17 15 19 25 20 16 26 18 14 15 23 22 19 19 13]
+ffa0       laser 1015/1756 (0.58)  min2 1.85 min4 3.44
+hh90       firstWeapon 29s (89%) laser 49s (72%) cubes@60 2.5 (alive 95%)
+hh90       n=300  score 7.78  kills 0.78  life 263s  cubes 6.0  dealt 2185 taken 2352 zone 227  ms avg 0.21 max 17.0  acc 0.40  places [18 22 23 23 17 14 22 19 19 18 18 18 17 14 21 17]
+hh90       laser 899/1580 (0.57)  min2 1.82 min4 3.41
+hm30       firstWeapon 29s (93%) laser 49s (77%) cubes@60 2.4 (alive 97%)
+hm30       n=200  score 7.46  kills 0.83  life 264s  cubes 5.6  dealt 2349 taken 2515 zone 167  ms avg 0.19 max 22.3  acc 0.39  places [13 12 12 10 13 13 9 9 14 16 18 18 11 13 12 7]
+hm30       laser 679/1130 (0.60)  min2 1.87 min4 3.50
+hm60       firstWeapon 31s (90%) laser 50s (74%) cubes@60 2.3 (alive 96%)
+hm60       n=300  score 7.70  kills 0.90  life 266s  cubes 5.9  dealt 2321 taken 2435 zone 165  ms avg 0.21 max 13.6  acc 0.38  places [19 19 19 15 21 21 26 14 22 18 21 18 15 25 11 16]
+hm60       laser 963/1596 (0.60)  min2 1.86 min4 3.46
+lt50       firstWeapon 30s (90%) laser 50s (73%) cubes@60 2.6 (alive 94%)
+lt50       n=200  score 7.28  kills 0.80  life 255s  cubes 5.7  dealt 2211 taken 2373 zone 176  ms avg 0.19 max 13.0  acc 0.36  places [12 13 13 12 10 13 13 10 6 16 14 9 19 15 12 13]
+lt50       laser 610/1026 (0.59)  min2 1.81 min4 3.31
+r3         firstWeapon 29s (93%) laser 42s (79%) cubes@60 2.5 (alive 96%)
+r3         n=200  score 7.84  kills 0.96  life 264s  cubes 5.4  dealt 2473 taken 2403 zone 221  ms avg 0.19 max 13.3  acc 0.39  places [10 13 15 15 11 14 13 21 17 11 11 5 10 7 12 15]
+r3         laser 722/1220 (0.59)  min2 1.79 min4 3.40
+elapsed 3m48.079s

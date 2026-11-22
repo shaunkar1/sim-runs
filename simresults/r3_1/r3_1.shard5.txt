@@ -1,0 +1,22 @@
+aggro      firstWeapon 26s (88%) laser 46s (71%) cubes@60 3.3 (alive 92%)
+aggro      n=100  score 5.81  kills 1.32  life 220s  cubes 6.9  dealt 5058 taken 3518 zone 33  ms avg 0.16 max 13.6  acc 0.35  places [3 4 6 4 3 5 3 7 8 3 9 6 4 10 13 12]
+aggro      laser 720/1209 (0.60)  min2 1.63 min4 2.89
+ffa0       firstWeapon 34s (93%) laser 57s (77%) cubes@60 2.3 (alive 97%)
+ffa0       n=300  score 7.89  kills 0.87  life 268s  cubes 6.4  dealt 2361 taken 2551 zone 183  ms avg 0.19 max 22.2  acc 0.38  places [21 21 19 29 13 17 23 22 13 14 21 21 17 17 19 13]
+ffa0       laser 968/1651 (0.59)  min2 1.85 min4 3.47
+hh90       firstWeapon 26s (95%) laser 39s (80%) cubes@60 2.5 (alive 97%)
+hh90       n=300  score 7.73  kills 0.91  life 265s  cubes 5.9  dealt 2480 taken 2592 zone 155  ms avg 0.19 max 12.3  acc 0.38  places [19 17 21 24 22 19 14 17 16 25 18 24 18 13 14 19]
+hh90       laser 1085/1889 (0.57)  min2 1.83 min4 3.46
+hm30       firstWeapon 32s (90%) laser 53s (76%) cubes@60 2.5 (alive 95%)
+hm30       n=200  score 7.67  kills 0.86  life 263s  cubes 5.5  dealt 2304 taken 2386 zone 210  ms avg 0.19 max 12.2  acc 0.38  places [12 12 12 14 16 18 13 12 14 9 7 8 12 13 12 16]
+hm30       laser 646/1048 (0.62)  min2 1.78 min4 3.31
+hm60       firstWeapon 29s (92%) laser 48s (76%) cubes@60 2.3 (alive 96%)
+hm60       n=300  score 7.47  kills 0.79  life 262s  cubes 5.7  dealt 2239 taken 2389 zone 198  ms avg 0.20 max 13.5  acc 0.38  places [20 18 16 13 22 17 21 19 20 23 18 21 22 19 16 15]
+hm60       laser 960/1676 (0.57)  min2 1.85 min4 3.44
+lt50       firstWeapon 31s (90%) laser 50s (72%) cubes@60 2.2 (alive 93%)
+lt50       n=200  score 7.24  kills 0.82  life 254s  cubes 6.0  dealt 2192 taken 2352 zone 217  ms avg 0.20 max 15.8  acc 0.37  places [12 13 13 13 10 11 12 9 10 15 17 9 13 12 16 15]
+lt50       laser 617/1037 (0.59)  min2 1.77 min4 3.27
+r3         firstWeapon 26s (93%) laser 41s (72%) cubes@60 2.5 (alive 96%)
+r3         n=200  score 7.58  kills 0.94  life 262s  cubes 5.7  dealt 2298 taken 2386 zone 183  ms avg 0.20 max 14.6  acc 0.35  places [13 15 13 3 14 14 16 11 19 11 11 10 15 15 11 9]
+r3         laser 651/1136 (0.57)  min2 1.85 min4 3.43
+elapsed 3m45.001s

@@ -1,0 +1,22 @@
+aggro      firstWeapon 28s (82%) laser 38s (66%) cubes@60 3.1 (alive 83%)
+aggro      n=100  score 4.94  kills 1.39  life 188s  cubes 6.2  dealt 5149 taken 3505 zone 53  ms avg 0.21 max 16.9  acc 0.35  places [5 5 3 1 4 2 4 5 2 4 8 4 9 13 11 20]
+aggro      laser 770/1198 (0.64)  min2 1.49 min4 2.52
+ffa0       firstWeapon 32s (92%) laser 49s (74%) cubes@60 2.6 (alive 95%)
+ffa0       n=300  score 7.30  kills 0.94  life 258s  cubes 6.0  dealt 2420 taken 2481 zone 185  ms avg 0.24 max 34.6  acc 0.40  places [16 18 24 14 14 14 20 15 23 25 22 23 19 19 16 18]
+ffa0       laser 1035/1713 (0.60)  min2 1.83 min4 3.41
+hh90       firstWeapon 32s (92%) laser 54s (76%) cubes@60 2.4 (alive 97%)
+hh90       n=300  score 7.82  kills 0.86  life 268s  cubes 5.8  dealt 2355 taken 2456 zone 177  ms avg 0.25 max 24.2  acc 0.38  places [19 19 20 15 23 19 26 13 31 19 8 20 23 18 17 10]
+hh90       laser 1002/1683 (0.60)  min2 1.88 min4 3.50
+hm30       firstWeapon 30s (93%) laser 50s (79%) cubes@60 2.4 (alive 96%)
+hm30       n=200  score 7.61  kills 0.89  life 263s  cubes 6.2  dealt 2257 taken 2414 zone 213  ms avg 0.23 max 16.2  acc 0.38  places [11 12 11 15 13 14 16 13 10 13 16 10 12 7 16 11]
+hm30       laser 650/1117 (0.58)  min2 1.81 min4 3.41
+hm60       firstWeapon 33s (91%) laser 50s (72%) cubes@60 2.5 (alive 93%)
+hm60       n=300  score 7.71  kills 0.80  life 260s  cubes 5.9  dealt 2152 taken 2390 zone 177  ms avg 0.25 max 35.6  acc 0.38  places [19 27 16 24 16 16 16 23 15 17 18 22 20 14 17 20]
+hm60       laser 904/1561 (0.58)  min2 1.81 min4 3.40
+lt50       firstWeapon 33s (91%) laser 50s (75%) cubes@60 2.6 (alive 96%)
+lt50       n=200  score 7.83  kills 0.88  life 266s  cubes 6.2  dealt 2325 taken 2465 zone 139  ms avg 0.24 max 18.8  acc 0.41  places [13 9 11 15 16 24 8 11 11 19 11 11 9 11 8 13]
+lt50       laser 643/1120 (0.57)  min2 1.83 min4 3.46
+r3         firstWeapon 30s (93%) laser 45s (76%) cubes@60 2.5 (alive 97%)
+r3         n=200  score 7.91  kills 0.79  life 267s  cubes 6.9  dealt 2239 taken 2380 zone 243  ms avg 0.23 max 17.6  acc 0.37  places [17 12 14 16 14 10 10 20 8 4 17 11 8 16 15 8]
+r3         laser 646/1113 (0.58)  min2 1.84 min4 3.42
+elapsed 4m36.356s

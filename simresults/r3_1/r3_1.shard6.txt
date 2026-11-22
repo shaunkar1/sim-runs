@@ -1,0 +1,22 @@
+aggro      firstWeapon 23s (83%) laser 38s (73%) cubes@60 3.7 (alive 84%)
+aggro      n=100  score 5.49  kills 1.25  life 208s  cubes 7.0  dealt 4715 taken 3429 zone 125  ms avg 0.19 max 15.6  acc 0.38  places [2 6 5 3 3 3 4 5 7 8 6 8 4 8 8 20]
+aggro      laser 694/1123 (0.62)  min2 1.52 min4 2.76
+ffa0       firstWeapon 29s (93%) laser 49s (81%) cubes@60 2.5 (alive 94%)
+ffa0       n=300  score 8.24  kills 0.93  life 270s  cubes 6.5  dealt 2383 taken 2405 zone 198  ms avg 0.19 max 13.0  acc 0.38  places [27 24 21 20 25 21 16 20 14 18 12 12 21 16 20 13]
+ffa0       laser 1043/1742 (0.60)  min2 1.85 min4 3.45
+hh90       firstWeapon 34s (92%) laser 58s (74%) cubes@60 2.5 (alive 97%)
+hh90       n=300  score 7.54  kills 0.83  life 263s  cubes 5.5  dealt 2339 taken 2467 zone 169  ms avg 0.19 max 18.7  acc 0.40  places [15 19 16 17 20 20 20 25 21 22 21 15 15 26 18 10]
+hh90       laser 953/1593 (0.60)  min2 1.87 min4 3.46
+hm30       firstWeapon 24s (93%) laser 37s (75%) cubes@60 2.2 (alive 92%)
+hm30       n=200  score 7.22  kills 0.81  life 252s  cubes 5.3  dealt 2066 taken 2246 zone 149  ms avg 0.19 max 13.2  acc 0.38  places [14 9 12 15 12 10 17 6 11 8 15 16 12 11 17 15]
+hm30       laser 592/1054 (0.56)  min2 1.76 min4 3.27
+hm60       firstWeapon 30s (92%) laser 48s (76%) cubes@60 2.5 (alive 92%)
+hm60       n=300  score 7.60  kills 0.87  life 258s  cubes 6.0  dealt 2332 taken 2458 zone 176  ms avg 0.21 max 14.4  acc 0.37  places [21 17 19 23 22 18 12 16 21 23 16 21 19 13 13 26]
+hm60       laser 1014/1647 (0.62)  min2 1.78 min4 3.37
+lt50       firstWeapon 31s (92%) laser 61s (81%) cubes@60 2.6 (alive 98%)
+lt50       n=200  score 7.85  kills 0.94  life 270s  cubes 7.1  dealt 2377 taken 2527 zone 153  ms avg 0.20 max 18.3  acc 0.37  places [14 12 16 8 9 18 14 14 19 5 12 17 15 13 9 5]
+lt50       laser 641/1105 (0.58)  min2 1.91 min4 3.56
+r3         firstWeapon 29s (89%) laser 45s (73%) cubes@60 2.5 (alive 96%)
+r3         n=200  score 7.17  kills 0.83  life 259s  cubes 5.7  dealt 2221 taken 2362 zone 225  ms avg 0.19 max 12.5  acc 0.37  places [7 13 11 14 10 11 16 13 9 14 19 12 12 14 15 10]
+r3         laser 603/1047 (0.58)  min2 1.82 min4 3.38
+elapsed 3m47.722s
