@@ -1,0 +1,6 @@
+commit=5cd6f578e24863bab222c126c1f364863e86568c
+n=1200
+seed=8400000
+mode=practice
+cand=prof:f75a220+g+s+d100+x3,prof:f75a220+g+s+d100+x3+y70+t60,prof:f75a220+g+s+d100+x3+y70+t60+dc120,prof:f75a220+g+s+d100+x3+y70+t60+tw3,prof:f75a220+g+s+d100+x3+y70+t60+is40,prof:f75a220+g+s+d100+x3+y70+t60+sq80
+extra=-ramp 0.44 -aggro 0
