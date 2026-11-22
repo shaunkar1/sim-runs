@@ -1,0 +1,25 @@
+brawle     firstWeapon 14s (75%) laser 21s (59%) cubes@60 3.6 (alive 54%)
+brawle     n=500  score 6.44  kills 1.11  life 106s  cubes 6.6  dealt 2793 taken 2680 zone 62  ms avg 0.08 max 10.2  acc 0.44  places [20 21 14 20 29 31 32 35 34 37 33 34 40 40 44 36]
+brawle     laser 1922/2948 (0.65)  min2 1.77 min4 3.21
+campR2et   firstWeapon 0s (0%) laser 0s (0%) cubes@60 2.5 (alive 60%)
+campR2et   n=200  score 6.19  kills 0.15  life 93s  cubes 3.2  dealt 908 taken 2194 zone 8  ms avg 0.07 max 8.0  acc 0.31  places [0 1 3 7 8 19 24 15 22 16 15 22 15 10 9 14]
+campR2et   laser 0/0 (0.00)  min2 1.81 min4 3.41
+ffa0       firstWeapon 48s (84%) laser 64s (70%) cubes@60 2.0 (alive 87%)
+ffa0       n=100  score 11.32  kills 0.50  life 242s  cubes 6.0  dealt 1455 taken 2041 zone 190  ms avg 0.10 max 9.8  acc 0.37  places [16 22 24 5 3 6 2 5 3 2 1 4 0 2 3 2]
+ffa0       laser 214/371 (0.58)  min2 1.93 min4 3.79
+hc120      firstWeapon 37s (80%) laser 53s (72%) cubes@60 1.6 (alive 84%)
+hc120      n=100  score 10.52  kills 0.46  life 223s  cubes 6.1  dealt 1624 taken 2317 zone 146  ms avg 0.14 max 10.6  acc 0.42  places [11 17 20 9 7 8 4 0 4 3 5 2 1 1 4 4]
+hc120      laser 247/390 (0.63)  min2 1.88 min4 3.69
+hideR      firstWeapon 28s (86%) laser 53s (79%) cubes@60 2.1 (alive 85%)
+hideR      n=100  score 10.36  kills 0.54  life 210s  cubes 8.2  dealt 1972 taken 2581 zone 83  ms avg 0.12 max 10.8  acc 0.34  places [15 10 11 16 8 7 4 6 4 4 4 2 2 3 2 2]
+hideR      laser 291/511 (0.57)  min2 1.94 min4 3.78
+hst        firstWeapon 43s (80%) laser 59s (68%) cubes@60 1.8 (alive 86%)
+hst        n=100  score 10.43  kills 0.45  life 221s  cubes 4.6  dealt 1582 taken 2332 zone 125  ms avg 0.12 max 15.5  acc 0.37  places [4 16 16 18 13 4 6 1 3 2 6 2 5 2 0 2]
+hst        laser 241/381 (0.63)  min2 1.96 min4 3.83
+hunterAe   firstWeapon 18s (80%) laser 28s (65%) cubes@60 3.2 (alive 54%)
+hunterAe   n=300  score 6.89  kills 1.43  life 115s  cubes 7.9  dealt 4042 taken 3189 zone 59  ms avg 0.12 max 10.0  acc 0.40  places [20 10 9 20 20 20 14 26 13 19 20 22 20 22 19 26]
+hunterAe   laser 1795/2896 (0.62)  min2 1.76 min4 3.25
+hunterB2e  firstWeapon 18s (71%) laser 22s (54%) cubes@60 3.8 (alive 51%)
+hunterB2e  n=200  score 6.11  kills 1.16  life 92s  cubes 6.6  dealt 3353 taken 2718 zone 18  ms avg 0.10 max 6.1  acc 0.36  places [15 3 2 5 12 6 13 12 17 18 17 10 17 21 18 14]
+hunterB2e  laser 992/1585 (0.63)  min2 1.77 min4 3.15
+elapsed 1m0.022s
