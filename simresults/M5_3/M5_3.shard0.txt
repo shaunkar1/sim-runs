@@ -1,0 +1,25 @@
+brawle     firstWeapon 14s (78%) laser 24s (61%) cubes@60 3.7 (alive 56%)
+brawle     n=500  score 6.38  kills 1.02  life 103s  cubes 6.1  dealt 2674 taken 2645 zone 42  ms avg 0.09 max 11.5  acc 0.44  places [13 13 18 21 31 39 37 30 35 42 32 33 37 42 39 38]
+brawle     laser 1820/2839 (0.64)  min2 1.77 min4 3.22
+campR2et   firstWeapon 0s (0%) laser 0s (0%) cubes@60 2.8 (alive 54%)
+campR2et   n=200  score 5.96  kills 0.23  life 94s  cubes 4.6  dealt 1055 taken 2403 zone 11  ms avg 0.08 max 12.8  acc 0.35  places [1 2 4 10 5 16 19 19 13 19 12 17 18 19 13 13]
+campR2et   laser 0/0 (0.00)  min2 1.80 min4 3.27
+ffa0       firstWeapon 32s (85%) laser 66s (71%) cubes@60 1.7 (alive 91%)
+ffa0       n=100  score 11.39  kills 0.49  life 229s  cubes 5.8  dealt 1677 taken 2198 zone 64  ms avg 0.14 max 12.2  acc 0.43  places [18 19 16 8 10 5 3 5 4 1 3 4 2 0 1 1]
+ffa0       laser 268/406 (0.66)  min2 1.97 min4 3.91
+hideR      firstWeapon 37s (85%) laser 67s (67%) cubes@60 1.8 (alive 84%)
+hideR      n=100  score 10.58  kills 0.41  life 211s  cubes 7.7  dealt 1524 taken 2281 zone 94  ms avg 0.12 max 11.6  acc 0.32  places [12 16 14 11 7 11 3 4 3 5 3 3 4 1 2 1]
+hideR      laser 210/392 (0.54)  min2 1.96 min4 3.84
+hunterAe   firstWeapon 22s (73%) laser 36s (58%) cubes@60 2.9 (alive 59%)
+hunterAe   n=300  score 6.82  kills 1.48  life 114s  cubes 8.1  dealt 4169 taken 3252 zone 15  ms avg 0.13 max 12.0  acc 0.41  places [19 15 13 19 17 9 18 19 21 17 22 21 17 22 26 25]
+hunterAe   laser 1781/2797 (0.64)  min2 1.75 min4 3.20
+hunterB2e  firstWeapon 17s (76%) laser 24s (59%) cubes@60 4.0 (alive 49%)
+hunterB2e  n=200  score 6.37  kills 1.29  life 100s  cubes 7.7  dealt 3651 taken 2864 zone 28  ms avg 0.11 max 11.6  acc 0.37  places [9 4 7 10 12 12 9 12 21 10 16 16 17 14 13 18]
+hunterB2e  laser 1073/1735 (0.62)  min2 1.75 min4 3.22
+n4corpse30 firstWeapon 30s (88%) laser 56s (70%) cubes@60 2.1 (alive 84%)
+n4corpse30 n=100  score 10.41  kills 0.55  life 214s  cubes 6.2  dealt 1849 taken 2463 zone 40  ms avg 0.16 max 17.1  acc 0.43  places [15 14 18 7 7 2 8 7 0 3 7 3 1 3 3 2]
+n4corpse30 laser 271/426 (0.64)  min2 1.93 min4 3.76
+n4gl       firstWeapon 39s (82%) laser 58s (68%) cubes@60 1.6 (alive 88%)
+n4gl       n=100  score 10.69  kills 0.56  life 212s  cubes 6.3  dealt 1658 taken 2327 zone 49  ms avg 0.16 max 14.6  acc 0.40  places [13 19 10 12 11 7 2 4 4 2 5 4 3 0 3 1]
+n4gl       laser 252/422 (0.60)  min2 1.95 min4 3.84
+elapsed 1m6.403s
