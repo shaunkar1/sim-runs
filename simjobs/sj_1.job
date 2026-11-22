@@ -1,5 +1,6 @@
-commit=377b32694b966e494e3b5b9e59b6e01ef23878c8
+commit=4209d8746d9781d844989850913a78f80bb07948
 n=100
-seed=9307919
+seed=10036043
 mode=ffa
-cand=ffa0,ffa0,ffa0,ffa0,si30,si30,si30,si60,si60,si60,zl20,zl20,zl20,si30zl20,si30zl20,si30zl20
+cand=hunterAe,hunterAe,hunterAe,hunterB2e,hunterB2e,brawle,brawle,brawle,brawle,brawle,campR2et,campR2et,hideR,ffa0,el6z,el10z120
+extra=-shuffle
