@@ -1,0 +1,13 @@
+prof:f75a190+g+s+d100+x3 firstWeapon 17s (96%) laser 26s (89%) cubes@60 3.5 (alive 97%)
+prof:f75a190+g+s+d100+x3 n=300  score 6.32  kills 5.66  life 165s  cubes 11.0  dealt 11726 taken 3096 zone 128  ms avg 0.24 max 17.5  acc 0.67  places [1 2 4 12 9 21 19 30 43 43 37 18 27 11 17 6]
+prof:f75a190+g+s+d100+x3 laser 4291/5110 (0.84)  min2 1.90 min4 3.59
+prof:f75a190+g+s+d100+x3+r33 firstWeapon 15s (96%) laser 27s (86%) cubes@60 3.7 (alive 96%)
+prof:f75a190+g+s+d100+x3+r33 n=300  score 5.93  kills 5.38  life 155s  cubes 9.8  dealt 11276 taken 2978 zone 63  ms avg 0.24 max 15.1  acc 0.68  places [3 1 4 5 6 20 29 25 32 28 41 35 37 11 12 11]
+prof:f75a190+g+s+d100+x3+r33 laser 4062/4876 (0.83)  min2 1.89 min4 3.54
+prof:f75a220+g+s+d100+x3 firstWeapon 15s (96%) laser 28s (89%) cubes@60 3.6 (alive 93%)
+prof:f75a220+g+s+d100+x3 n=300  score 5.73  kills 5.25  life 151s  cubes 9.1  dealt 10782 taken 2922 zone 73  ms avg 0.24 max 16.8  acc 0.67  places [0 1 4 4 6 18 21 36 36 35 36 25 27 20 18 13]
+prof:f75a220+g+s+d100+x3 laser 4001/4773 (0.84)  min2 1.85 min4 3.42
+prof:f75a220+g+s+d100+x3+r30 firstWeapon 19s (93%) laser 31s (85%) cubes@60 3.3 (alive 95%)
+prof:f75a220+g+s+d100+x3+r30 n=300  score 5.93  kills 5.36  life 154s  cubes 9.8  dealt 11011 taken 2939 zone 61  ms avg 0.24 max 16.8  acc 0.69  places [3 2 4 7 16 11 19 27 37 30 40 38 18 15 21 12]
+prof:f75a220+g+s+d100+x3+r30 laser 3855/4547 (0.85)  min2 1.85 min4 3.47
+elapsed 10m57.178s
