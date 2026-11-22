@@ -1,0 +1,6 @@
+commit=35cc4d77d41483d0183bff4972ebe9808b3464a7
+n=100
+seed=10023309
+mode=ffa
+cand=hunterA,hunterA,hunterA,hunterB2,hunterB2,brawl,brawl,brawl,brawl,brawl,campR,campR,hideR,hd1,hd2,hd3
+extra=-shuffle
