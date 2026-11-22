@@ -1,0 +1,6 @@
+commit=feaccc030e8ecfe73c367157519ebb97a7400ca2
+n=100
+seed=10017131
+mode=ffa
+cand=ffa0,ffa0,ffa0,ffa0,fd1,fd1,fd1,fd1,ffa0,ffa0,fd1,fd1,aggro,aggro,atgun,fd1
+extra=-shuffle
