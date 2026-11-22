@@ -1,0 +1,19 @@
+prof:f75a220+g+s+d100+x3 firstWeapon 16s (93%) laser 36s (84%) cubes@60 3.6 (alive 96%)
+prof:f75a220+g+s+d100+x3 n=200  score 5.68  kills 5.04  life 147s  cubes 8.7  dealt 10690 taken 2950 zone 38  ms avg 0.25 max 28.7  acc 0.68  places [1 0 1 2 2 13 14 14 28 31 31 20 16 9 12 6]
+prof:f75a220+g+s+d100+x3 laser 2416/2926 (0.83)  min2 1.88 min4 3.53
+prof:f75bers+g+s+d100+x3 firstWeapon 19s (95%) laser 32s (87%) cubes@60 3.5 (alive 97%)
+prof:f75bers+g+s+d100+x3 n=200  score 5.85  kills 5.28  life 149s  cubes 9.8  dealt 10795 taken 2916 zone 77  ms avg 0.24 max 17.9  acc 0.69  places [0 1 4 2 3 7 14 25 37 22 24 16 15 11 9 10]
+prof:f75bers+g+s+d100+x3 laser 2462/2913 (0.85)  min2 1.85 min4 3.48
+prof:f75kite+g+s+d100+x3 firstWeapon 18s (96%) laser 27s (82%) cubes@60 3.5 (alive 97%)
+prof:f75kite+g+s+d100+x3 n=200  score 5.57  kills 4.93  life 164s  cubes 9.4  dealt 10693 taken 3025 zone 87  ms avg 0.24 max 17.5  acc 0.68  places [0 0 2 3 2 7 11 25 22 32 33 14 17 14 14 4]
+prof:f75kite+g+s+d100+x3 laser 2471/2998 (0.82)  min2 1.89 min4 3.48
+prof:f75ret50+g+s+d100+x3 firstWeapon 14s (96%) laser 29s (88%) cubes@60 3.7 (alive 97%)
+prof:f75ret50+g+s+d100+x3 n=200  score 5.80  kills 5.34  life 152s  cubes 9.5  dealt 11063 taken 2907 zone 63  ms avg 0.24 max 16.8  acc 0.68  places [2 2 1 2 6 9 18 16 25 23 28 20 17 9 18 4]
+prof:f75ret50+g+s+d100+x3 laser 2660/3139 (0.85)  min2 1.87 min4 3.48
+prof:farm15+g+s+d100+x3 firstWeapon 20s (96%) laser 31s (83%) cubes@60 3.5 (alive 97%)
+prof:farm15+g+s+d100+x3 n=200  score 5.07  kills 4.61  life 170s  cubes 8.6  dealt 9329 taken 3279 zone 63  ms avg 0.27 max 28.5  acc 0.68  places [1 2 0 0 2 9 9 13 19 22 37 26 25 16 13 6]
+prof:farm15+g+s+d100+x3 laser 2074/2504 (0.83)  min2 1.88 min4 3.40
+prof:farmT90+g+s+d100+x3 firstWeapon 15s (93%) laser 30s (84%) cubes@60 3.6 (alive 93%)
+prof:farmT90+g+s+d100+x3 n=200  score 5.55  kills 4.96  life 164s  cubes 9.1  dealt 10350 taken 2960 zone 57  ms avg 0.24 max 16.4  acc 0.66  places [1 1 3 0 1 8 13 18 24 35 30 23 14 6 17 6]
+prof:farmT90+g+s+d100+x3 laser 2482/3036 (0.82)  min2 1.85 min4 3.50
+elapsed 11m4.268s

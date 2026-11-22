@@ -1,0 +1,19 @@
+prof:f60a220+g+s+d100+x3 firstWeapon 19s (95%) laser 30s (83%) cubes@60 3.5 (alive 96%)
+prof:f60a220+g+s+d100+x3 n=200  score 5.84  kills 5.37  life 154s  cubes 9.9  dealt 11089 taken 3028 zone 67  ms avg 0.24 max 18.2  acc 0.69  places [2 6 1 2 1 11 16 15 31 15 30 23 16 11 14 6]
+prof:f60a220+g+s+d100+x3 laser 2572/3093 (0.83)  min2 1.87 min4 3.48
+prof:f75a190+g+s+d100+x3 firstWeapon 17s (95%) laser 33s (86%) cubes@60 3.4 (alive 97%)
+prof:f75a190+g+s+d100+x3 n=200  score 6.23  kills 5.77  life 166s  cubes 11.3  dealt 11788 taken 3080 zone 113  ms avg 0.23 max 17.2  acc 0.69  places [3 3 2 4 5 13 14 15 26 33 26 14 23 6 7 6]
+prof:f75a190+g+s+d100+x3 laser 2713/3292 (0.82)  min2 1.91 min4 3.60
+prof:f75a220+g+s+d100+x3 firstWeapon 13s (93%) laser 27s (85%) cubes@60 3.4 (alive 93%)
+prof:f75a220+g+s+d100+x3 n=200  score 6.13  kills 5.58  life 156s  cubes 9.6  dealt 11610 taken 2878 zone 92  ms avg 0.24 max 17.1  acc 0.67  places [1 1 4 3 8 14 15 20 23 23 28 14 20 12 8 6]
+prof:f75a220+g+s+d100+x3 laser 2867/3420 (0.84)  min2 1.90 min4 3.54
+prof:f75a260+g+s+d100+x3 firstWeapon 16s (92%) laser 31s (84%) cubes@60 3.9 (alive 96%)
+prof:f75a260+g+s+d100+x3 n=200  score 5.93  kills 5.47  life 155s  cubes 10.2  dealt 11569 taken 3035 zone 78  ms avg 0.24 max 29.3  acc 0.68  places [3 2 2 4 7 9 16 16 25 22 23 19 19 17 11 5]
+prof:f75a260+g+s+d100+x3 laser 2763/3272 (0.84)  min2 1.90 min4 3.47
+prof:f75hp80+g+s+d100+x3 firstWeapon 18s (97%) laser 33s (91%) cubes@60 3.7 (alive 96%)
+prof:f75hp80+g+s+d100+x3 n=200  score 5.94  kills 5.34  life 160s  cubes 10.1  dealt 10952 taken 3079 zone 92  ms avg 0.24 max 20.1  acc 0.68  places [0 0 3 4 4 15 13 19 17 35 36 13 11 18 8 4]
+prof:f75hp80+g+s+d100+x3 laser 2620/3117 (0.84)  min2 1.92 min4 3.56
+prof:f90a220+g+s+d100+x3 firstWeapon 19s (93%) laser 33s (83%) cubes@60 3.8 (alive 96%)
+prof:f90a220+g+s+d100+x3 n=200  score 5.67  kills 5.15  life 158s  cubes 9.3  dealt 10722 taken 3029 zone 61  ms avg 0.26 max 22.9  acc 0.68  places [3 2 2 0 2 8 13 19 27 25 23 28 22 11 9 6]
+prof:f90a220+g+s+d100+x3 laser 2427/2898 (0.84)  min2 1.90 min4 3.52
+elapsed 11m9.182s
