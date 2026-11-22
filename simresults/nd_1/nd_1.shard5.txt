@@ -1,0 +1,22 @@
+aggro      firstWeapon 25s (81%) laser 45s (70%) cubes@60 2.8 (alive 80%)
+aggro      n=200  score 6.62  kills 0.92  life 215s  cubes 5.9  dealt 2975 taken 2699 zone 154  ms avg 0.25 max 16.3  acc 0.35  places [8 15 12 10 10 11 13 14 7 9 16 5 7 16 14 33]
+aggro      laser 820/1322 (0.62)  min2 1.60 min4 2.94
+atgun      firstWeapon 18s (84%) laser 40s (78%) cubes@60 3.5 (alive 85%)
+atgun      n=100  score 6.34  kills 1.16  life 216s  cubes 6.7  dealt 3391 taken 2884 zone 91  ms avg 0.19 max 16.0  acc 0.39  places [4 3 6 7 5 6 4 4 5 5 7 11 7 7 8 11]
+atgun      laser 479/800 (0.60)  min2 1.70 min4 3.11
+ffa0       firstWeapon 27s (89%) laser 52s (74%) cubes@60 2.6 (alive 91%)
+ffa0       n=400  score 7.93  kills 0.94  life 254s  cubes 6.6  dealt 2453 taken 2526 zone 132  ms avg 0.24 max 18.8  acc 0.38  places [33 30 23 24 30 30 33 19 24 17 15 23 22 33 23 21]
+ffa0       laser 1386/2242 (0.62)  min2 1.84 min4 3.40
+nc         firstWeapon 33s (91%) laser 50s (73%) cubes@60 2.2 (alive 94%)
+nc         n=400  score 7.50  kills 0.77  life 253s  cubes 5.3  dealt 2124 taken 2371 zone 169  ms avg 0.25 max 17.5  acc 0.38  places [21 22 25 23 24 29 24 27 26 33 23 30 38 19 21 15]
+nc         laser 1228/2069 (0.59)  min2 1.87 min4 3.50
+ncnofl     firstWeapon 30s (93%) laser 44s (77%) cubes@60 2.5 (alive 94%)
+ncnofl     n=200  score 7.98  kills 0.90  life 262s  cubes 6.1  dealt 2358 taken 2424 zone 231  ms avg 0.26 max 18.8  acc 0.39  places [10 12 15 20 12 17 9 4 18 12 23 15 11 5 12 5]
+ncnofl     laser 655/1055 (0.62)  min2 1.89 min4 3.62
+nofl       firstWeapon 32s (89%) laser 41s (70%) cubes@60 2.9 (alive 90%)
+nofl       n=200  score 7.53  kills 0.86  life 248s  cubes 6.4  dealt 2425 taken 2520 zone 163  ms avg 0.27 max 17.0  acc 0.38  places [16 13 13 10 15 4 10 20 12 15 10 9 11 16 15 11]
+nofl       laser 661/1108 (0.60)  min2 1.81 min4 3.34
+q45        firstWeapon 25s (96%) laser 45s (86%) cubes@60 2.8 (alive 94%)
+q45        n=100  score 7.72  kills 1.05  life 253s  cubes 6.8  dealt 2615 taken 2625 zone 158  ms avg 0.24 max 18.5  acc 0.39  places [8 6 5 6 4 4 7 11 8 9 6 7 5 3 7 4]
+q45        laser 390/644 (0.61)  min2 1.85 min4 3.52
+elapsed 4m32.769s
