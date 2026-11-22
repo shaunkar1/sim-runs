@@ -1,0 +1,22 @@
+brawle     firstWeapon 16s (75%) laser 27s (59%) cubes@60 3.6 (alive 53%)
+brawle     n=500  score 6.27  kills 1.06  life 102s  cubes 6.1  dealt 2761 taken 2673 zone 35  ms avg 0.10 max 12.1  acc 0.44  places [13 16 16 18 30 32 40 32 32 41 35 35 42 40 33 45]
+brawle     laser 1873/2854 (0.66)  min2 1.75 min4 3.20
+campR2et   firstWeapon 0s (0%) laser 0s (0%) cubes@60 2.5 (alive 53%)
+campR2et   n=200  score 6.24  kills 0.24  life 103s  cubes 4.3  dealt 1135 taken 2498 zone 10  ms avg 0.09 max 6.0  acc 0.36  places [1 4 7 12 7 18 14 13 15 13 21 19 17 12 16 11]
+campR2et   laser 0/0 (0.00)  min2 1.81 min4 3.33
+ffa0       firstWeapon 30s (84%) laser 53s (72%) cubes@60 2.1 (alive 91%)
+ffa0       n=200  score 11.09  kills 0.63  life 226s  cubes 6.2  dealt 1774 taken 2408 zone 39  ms avg 0.17 max 11.2  acc 0.43  places [34 28 26 23 27 17 8 7 5 3 5 2 4 3 2 6]
+ffa0       laser 519/858 (0.60)  min2 1.93 min4 3.80
+hideR      firstWeapon 31s (85%) laser 60s (74%) cubes@60 1.9 (alive 86%)
+hideR      n=100  score 10.59  kills 0.46  life 213s  cubes 7.3  dealt 1802 taken 2425 zone 134  ms avg 0.13 max 10.9  acc 0.35  places [10 20 17 8 5 5 5 9 5 3 1 5 1 4 1 1]
+hideR      laser 287/510 (0.56)  min2 1.97 min4 3.84
+hunterAe   firstWeapon 14s (75%) laser 23s (60%) cubes@60 3.9 (alive 56%)
+hunterAe   n=300  score 6.90  kills 1.58  life 117s  cubes 9.0  dealt 4337 taken 3202 zone 81  ms avg 0.14 max 6.2  acc 0.40  places [22 17 16 14 15 11 13 18 20 20 24 20 16 25 33 16]
+hunterAe   laser 1921/3088 (0.62)  min2 1.78 min4 3.24
+hunterB2e  firstWeapon 18s (66%) laser 21s (53%) cubes@60 3.6 (alive 48%)
+hunterB2e  n=200  score 5.86  kills 0.99  life 87s  cubes 6.0  dealt 2981 taken 2621 zone 3  ms avg 0.13 max 4.7  acc 0.35  places [4 2 4 9 8 11 13 20 15 18 12 19 18 16 14 17]
+hunterB2e  laser 879/1401 (0.63)  min2 1.76 min4 3.20
+n4duel     firstWeapon 39s (90%) laser 47s (75%) cubes@60 1.7 (alive 91%)
+n4duel     n=100  score 11.04  kills 0.46  life 225s  cubes 5.8  dealt 1440 taken 2218 zone 21  ms avg 0.17 max 9.1  acc 0.40  places [16 14 13 16 8 6 7 2 7 2 2 1 1 0 2 3]
+n4duel     laser 207/367 (0.56)  min2 1.92 min4 3.81
+elapsed 1m17.085s
