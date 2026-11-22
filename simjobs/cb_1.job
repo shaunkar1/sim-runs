@@ -1,0 +1,6 @@
+commit=15098d885acabddabd67cbdef191082903ed6b82
+n=100
+seed=10015139
+mode=ffa
+cand=ffa0,ffa0,ffa0,ls5,ls5,ls5,qa3ls5,qa3ls5,qa3ls5,ls5ka,ls5ka,ls5pf,ls5pf,aggro,aggro,atgun
+extra=-shuffle
