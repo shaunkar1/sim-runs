@@ -1,5 +1,6 @@
-commit=ff3577119e29b6da55872f3f9687abe172d0f584
-n=400
-seed=6300001
+commit=b6c1e395ab3a753787144f32a8dfaf17b49afa8e
+n=300
+seed=7300000
 mode=practice
-cand=P_,P_a160,P_a300,P_h35
+cand=prof:f75a220+g+s+d100+x3,prof:f75a220+g+s+x3,prof:f75a220+g+s+d60+x3,prof:f75a220+g+s+d100+x3+q300,prof:f75a220+g+s+d100+x3+j1,prof:f75a220+g+s+d100+x3+bz
+extra=-ramp 0.44 -aggro 0
