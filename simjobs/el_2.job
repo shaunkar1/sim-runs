@@ -1,0 +1,6 @@
+commit=f84732363d59eab40a7de318e876748dc7b70a01
+n=100
+seed=10016254
+mode=ffa
+cand=ffa0,ffa0,ffa0,ffa0,el6a,el6a,el6a,el6b,el6b,el6b,el8,el8,el8,aggro,aggro,atgun
+extra=-shuffle
