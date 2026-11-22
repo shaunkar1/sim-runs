@@ -1,0 +1,25 @@
+aggro      firstWeapon 20s (85%) laser 28s (69%) cubes@60 2.9 (alive 83%)
+aggro      n=100  score 6.23  kills 1.39  life 210s  cubes 6.1  dealt 4199 taken 3075 zone 123  ms avg 0.18 max 12.9  acc 0.34  places [4 3 7 3 7 7 4 12 3 5 4 4 2 6 10 19]
+aggro      laser 635/1060 (0.60)  min2 1.52 min4 2.80
+atgun      firstWeapon 18s (84%) laser 36s (69%) cubes@60 3.6 (alive 82%)
+atgun      n=100  score 5.61  kills 1.11  life 198s  cubes 7.3  dealt 3580 taken 3086 zone 62  ms avg 0.15 max 8.3  acc 0.35  places [3 3 5 3 7 5 6 4 4 3 10 4 7 7 13 16]
+atgun      laser 524/863 (0.61)  min2 1.55 min4 2.76
+ffa0       firstWeapon 28s (94%) laser 45s (72%) cubes@60 2.6 (alive 96%)
+ffa0       n=300  score 7.90  kills 0.81  life 263s  cubes 6.0  dealt 2233 taken 2464 zone 166  ms avg 0.19 max 21.1  acc 0.36  places [18 18 20 21 21 22 21 20 13 27 22 17 17 22 10 11]
+ffa0       laser 942/1662 (0.57)  min2 1.89 min4 3.55
+ls3        firstWeapon 34s (92%) laser 48s (72%) cubes@60 2.4 (alive 95%)
+ls3        n=200  score 7.47  kills 0.89  life 256s  cubes 6.2  dealt 2331 taken 2473 zone 145  ms avg 0.19 max 22.0  acc 0.38  places [12 12 12 10 12 12 12 17 15 10 13 16 15 11 13 8]
+ls3        laser 661/1082 (0.61)  min2 1.85 min4 3.46
+ls5        firstWeapon 36s (88%) laser 59s (72%) cubes@60 2.4 (alive 95%)
+ls5        n=300  score 7.84  kills 0.91  life 259s  cubes 6.2  dealt 2379 taken 2506 zone 129  ms avg 0.19 max 13.5  acc 0.37  places [21 29 21 14 20 14 18 15 24 16 23 14 21 16 17 17]
+ls5        laser 998/1684 (0.59)  min2 1.83 min4 3.43
+ls5h       firstWeapon 27s (92%) laser 44s (74%) cubes@60 2.5 (alive 94%)
+ls5h       n=300  score 7.73  kills 0.84  life 254s  cubes 5.9  dealt 2209 taken 2386 zone 142  ms avg 0.19 max 25.1  acc 0.38  places [22 16 17 27 16 19 24 20 20 9 16 21 19 20 22 12]
+ls5h       laser 963/1586 (0.61)  min2 1.85 min4 3.42
+ls5r       firstWeapon 26s (90%) laser 45s (78%) cubes@60 2.2 (alive 93%)
+ls5r       n=100  score 7.15  kills 0.80  life 248s  cubes 6.0  dealt 2113 taken 2197 zone 242  ms avg 0.19 max 12.6  acc 0.38  places [9 8 7 3 4 7 3 2 6 7 5 6 8 8 11 6]
+ls5r       laser 304/520 (0.58)  min2 1.77 min4 3.19
+ls7        firstWeapon 30s (89%) laser 54s (76%) cubes@60 2.3 (alive 95%)
+ls7        n=200  score 7.90  kills 0.89  life 257s  cubes 6.5  dealt 2524 taken 2611 zone 128  ms avg 0.19 max 11.4  acc 0.39  places [13 10 11 18 14 15 12 8 15 24 7 18 10 10 4 11]
+ls7        laser 719/1150 (0.63)  min2 1.87 min4 3.57
+elapsed 3m33.811s
