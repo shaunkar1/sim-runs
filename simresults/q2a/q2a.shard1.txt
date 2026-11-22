@@ -1,0 +1,19 @@
+prof:f75a220+g+s+d100+x3 firstWeapon 14s (96%) laser 30s (86%) cubes@60 3.4 (alive 97%)
+prof:f75a220+g+s+d100+x3 n=200  score 5.86  kills 5.38  life 152s  cubes 8.8  dealt 11149 taken 2880 zone 66  ms avg 0.19 max 13.9  acc 0.68  places [2 0 2 1 7 11 17 19 19 29 20 31 14 14 10 4]
+prof:f75a220+g+s+d100+x3 laser 2567/3050 (0.84)  min2 1.91 min4 3.56
+prof:f75a220+g+s+d100+x3+kp0+y70 firstWeapon 19s (92%) laser 32s (85%) cubes@60 3.7 (alive 93%)
+prof:f75a220+g+s+d100+x3+kp0+y70 n=200  score 6.67  kills 6.12  life 155s  cubes 10.8  dealt 12810 taken 3051 zone 79  ms avg 0.17 max 12.7  acc 0.67  places [3 4 3 5 5 12 26 21 27 31 16 13 9 5 12 8]
+prof:f75a220+g+s+d100+x3+kp0+y70 laser 3016/3607 (0.84)  min2 1.86 min4 3.56
+prof:f75a220+g+s+d100+x3+m10 firstWeapon 18s (91%) laser 28s (85%) cubes@60 3.5 (alive 94%)
+prof:f75a220+g+s+d100+x3+m10 n=200  score 5.69  kills 5.16  life 154s  cubes 8.5  dealt 10788 taken 3111 zone 46  ms avg 0.18 max 20.8  acc 0.67  places [3 1 2 5 6 7 6 21 27 30 20 18 20 11 12 11]
+prof:f75a220+g+s+d100+x3+m10 laser 2617/3193 (0.82)  min2 1.83 min4 3.39
+prof:f75a220+g+s+d100+x3+y70 firstWeapon 16s (96%) laser 30s (87%) cubes@60 3.9 (alive 96%)
+prof:f75a220+g+s+d100+x3+y70 n=200  score 6.26  kills 5.78  life 157s  cubes 9.9  dealt 11901 taken 3031 zone 46  ms avg 0.19 max 22.6  acc 0.67  places [1 3 1 1 4 21 18 19 21 28 30 15 20 6 6 6]
+prof:f75a220+g+s+d100+x3+y70 laser 2834/3371 (0.84)  min2 1.91 min4 3.63
+prof:f75a220+g+s+d100+x3+y70+t60 firstWeapon 14s (94%) laser 26s (86%) cubes@60 3.5 (alive 97%)
+prof:f75a220+g+s+d100+x3+y70+t60 n=200  score 6.43  kills 5.96  life 153s  cubes 11.2  dealt 12072 taken 2954 zone 82  ms avg 0.18 max 12.8  acc 0.67  places [4 1 5 4 4 13 14 24 26 26 29 18 10 6 11 5]
+prof:f75a220+g+s+d100+x3+y70+t60 laser 2923/3416 (0.86)  min2 1.90 min4 3.62
+prof:f75a220+g+s+x3+y70 firstWeapon 18s (92%) laser 26s (81%) cubes@60 3.6 (alive 95%)
+prof:f75a220+g+s+x3+y70 n=200  score 6.21  kills 5.57  life 164s  cubes 9.4  dealt 11583 taken 2985 zone 138  ms avg 0.19 max 13.7  acc 0.69  places [2 0 2 3 11 13 25 14 23 22 25 17 19 3 13 8]
+prof:f75a220+g+s+x3+y70 laser 2802/3363 (0.83)  min2 1.85 min4 3.52
+elapsed 8m33.798s
