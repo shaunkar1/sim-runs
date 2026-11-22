@@ -1,0 +1,6 @@
+commit=00c908439b45e33cb887d94e466f3403476848c2
+n=100
+seed=10052023
+mode=ffa
+cand=hunterAe,hunterAe,hunterAe,hunterB2e,hunterB2e,brawle,brawle,brawle,brawle,brawle,campR2et,campR2et,hideR,ffa0,hc120,hg80
+extra=-shuffle
